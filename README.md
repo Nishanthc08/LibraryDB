@@ -28,6 +28,9 @@ This project contains the SQL scripts to create and populate a library database.
 1. Basic Retrieval and Filtering:
 
 - Retrieve all information about books.
+  ```
+  SELECT * FROM Books;
+  ```
 - List the titles and genres of all books in the database.
 - Show the details of books published after the year 2000.
 
