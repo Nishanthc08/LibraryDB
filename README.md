@@ -24,6 +24,7 @@ This project contains the SQL scripts to create and populate a library database.
 - `loan_date` (DATE)
 - `return_date` (DATE)
 
+### Queries
 1. Basic Retrieval and Filtering:
 
 - Retrieve all information about books.
